@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This capstone project presents a **Network Intrusion Detection System (NIDS)** powered by **IBM watsonx.ai's AutoAI** capabilities. The goal is to automatically detect and classify suspicious network activity in real-time, improving network security through intelligent automation and cloud deployment.
+This project presents a **Network Intrusion Detection System (NIDS)** powered by **IBM watsonx.ai's AutoAI** capabilities. The goal is to automatically detect and classify suspicious network activity in real-time, improving network security through intelligent automation and cloud deployment.
 
 > 🚀 Developed by: **Atharva Vijay Suryawanshi**  
 > 🏫 MIT Academy of Engineering, Pune  
