@@ -40,6 +40,7 @@ The proposed system:
    - Best-performing pipeline selected based on metrics like **Accuracy**, **Precision**, **Recall**, and **F1-score**.
 4. **Deployment**
    - Top model deployed as a **REST API** on IBM Cloud using Watson Machine Learning.
+<img width="1919" height="850" alt="Screenshot 2025-08-03 214323" src="https://github.com/user-attachments/assets/dd146a78-8d58-4edc-bf18-b9bfb36ac51b" />
 
 ---
 
@@ -49,7 +50,8 @@ The proposed system:
 - Successfully classified network connections as either **normal** or **intrusions** across multiple test scenarios.
 - Visual dashboards verified the accuracy of anomaly detection.
 
----
+---<img width="1777" height="754" alt="Screenshot 2025-08-03 221433" src="https://github.com/user-attachments/assets/2e0f4d84-bef1-41d5-922d-b62a0b8c8821" />
+
 
 ## 📦 System Requirements
 
